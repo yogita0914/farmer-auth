@@ -66,7 +66,7 @@ export default function RegisterPage() {
           </button>
         </form>
 
-        <div className="text-sm mt-4 text-center">
+        <div className="text-sm mt-4 text-center text-gray-600">
           Already have an account?{' '}
           <Link href="/login" className="text-green-600 hover:underline">
             Login
